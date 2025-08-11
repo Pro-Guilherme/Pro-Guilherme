@@ -20,8 +20,8 @@ Atualmente estou estudando programação e construindo projetos para automatizar
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pro-Guilherme&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Guilherme&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pro-Guilherme&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Guilherme&layout=compact&theme=tokyonight)
 
 ---
 
