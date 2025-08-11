@@ -27,4 +27,4 @@ Atualmente estou estudando programação e construindo projetos para automatizar
 
 ### 📫 Contatos
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:guisacont@gmail.com)
-(https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/guilhermeamado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/guilhermeamado)
