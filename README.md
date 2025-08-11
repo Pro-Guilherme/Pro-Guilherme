@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Pro-Guilherme/Pro-Guilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Guilherme da Silva Amado, em formação para me tornar desenvolvedor especializado em automação.  
+Atualmente estou estudando programação e construindo projetos para automatizar processos e aumentar a produtividade.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Ferramentas
+- Lógica de Programação
+- Python (nível iniciante)
+- Git & GitHub
+- Automação de tarefas
+
+---
+
+### 📌 Objetivos Atuais
+- Aprofundar conhecimentos em automação de processos
+- Criar projetos práticos para portfólio
+- Aprender boas práticas de desenvolvimento
+
+---
+
+### 📫 Contatos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/guilhermeamado)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:guisacont@gmail.com)
