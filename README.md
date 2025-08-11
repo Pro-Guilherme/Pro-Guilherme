@@ -5,11 +5,6 @@ Atualmente estou estudando programação e construindo projetos para automatizar
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pro-Guilherme&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Guilherme&layout=compact&theme=dracula)
-
----
-
 ### 🚀 Tecnologias e Ferramentas
 - Lógica de Programação
 - Python (nível iniciante)
@@ -22,6 +17,11 @@ Atualmente estou estudando programação e construindo projetos para automatizar
 - Aprofundar conhecimentos em automação de processos
 - Criar projetos práticos para portfólio
 - Aprender boas práticas de desenvolvimento
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pro-Guilherme&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Guilherme&layout=compact&theme=dracula)
 
 ---
 
