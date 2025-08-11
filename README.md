@@ -3,6 +3,8 @@
 Sou Guilherme, em formação para me tornar desenvolvedor especializado em automação.  
 Atualmente estou estudando programação e construindo projetos para automatizar processos e aumentar a produtividade.
 
+---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pro-Guilherme&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Guilherme&layout=compact&theme=dracula)
 
