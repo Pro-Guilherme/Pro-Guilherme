@@ -14,7 +14,7 @@ Atualmente estou estudando programação e construindo projetos para automatizar
 ---
 
 ### 📌 Objetivos Atuais
-- Me graduar em Ciência da Computação
+- Me graduar em Ciências da Computação
 - Aprofundar conhecimentos em automação de processos
 - Criar projetos práticos para portfólio
 - Aprender boas práticas de desenvolvimento
