@@ -1,7 +1,7 @@
 # Olá! 👋
 
 Sou Guilherme, em formação para me tornar desenvolvedor especializado em automação.  
-Atualmente estou estudando programação e construindo projetos para automatizar processos e aumentar a produtividade.
+Atualmente estou estudando programação e construindo projetos para automatizar processos e aumentar minha produtividade.
 
 ---
 
